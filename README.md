@@ -15,6 +15,7 @@ Proposals
  - Daniel Spiewak: possibility for something in Dec before YOW
  - Sidney Shek: your first akka cluster
  - Christopher Hunt: typed actors
+ - Quinton Anderson: Undecided on topic, was thinking either "How not to Scala" or "Shark/Spark in Scala"
 
 
 November
