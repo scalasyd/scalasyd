@@ -12,7 +12,6 @@ Proposals
  - Jed: Stream processing
  - Thibault: BigDecimal (not sure about this)
  - Tony Sloane: using sublime for scala development
- - Daniel Spiewak: possibility for something in Dec before YOW
  - Sidney Shek: your first akka cluster
  - Christopher Hunt: typed actors
  - Quinton Anderson: Undecided on topic, was thinking either "How not to Scala" or "Shark/Spark in Scala"
@@ -25,3 +24,11 @@ November
 
 December
 --------
+Daniel Spiewak, talk TBA
+
+January
+-------
+Possible (likely?) move to 22 Jan, if so Vernon Vaughn is available that week for talk on DDD with akka:
+ - http://skillsmatter.com/event/agile-scrum/reactive-ddd-with-scala-and-akka 
+ - http://oredev.org/2013/wed-fri-conference/an-open-source-grid-based-actor-model 
+
