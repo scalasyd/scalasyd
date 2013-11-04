@@ -29,11 +29,6 @@ __Thibault__
 
 ### Blobitecture and how not to formulate systems
 
-Lets talk architecture. Yes powerpoint and magical ponies. Lets talk
-about how we do it _wrong_. Lets talk about how we can do it _better_.
-Lets talk about its relevence to introduction of new technology and
-techniques like scala and fp. Lets talk about its relevence to that
-rotting pile of bits that makes your job impossible.
 
 __Mark Hibberd__
 
