@@ -17,14 +17,37 @@ Proposals
  - Quinton Anderson: Undecided on topic, was thinking either "How not to Scala" or "Shark/Spark in Scala"
 
 
-November
---------
+November (Wed 13th)
+-------------------
+
+### BigDecimal & Doubles
+
+TBA
+
+__Thibault__
 
 
+### Blobitecture and how not to formulate systems
 
-December
---------
+Lets talk architecture. Yes powerpoint and magical ponies. Lets talk
+about how we do it _wrong_. Lets talk about how we can do it _better_.
+Lets talk about its relevence to introduction of new technology and
+techniques like scala and fp. Lets talk about its relevence to that
+rotting pile of bits that makes your job impossible.
+
+__Mark Hibberd__
+
+
+### Your First AKKA Cluster
+
+__Sidney Shek__
+
+
+December (Wed 11th)
+-------------------
+
 Daniel Spiewak, talk TBA
+Phil Wadler, talk TBA
 
 January
 -------
