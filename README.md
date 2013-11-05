@@ -35,7 +35,12 @@ __Mark Hibberd__
 
 ### Your First AKKA Cluster
 
+An Akka novice's journey to setting up an Akka cluster for
+asynchronous task processing, including gotchas to consider and highlights
+of why actors are cool (or not cool).
+
 __Sidney Shek__
+
 
 
 December (Wed 11th)
