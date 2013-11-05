@@ -27,7 +27,15 @@ TBA
 __Thibault__
 
 
-### Blobitecture and how not to formulate systems
+### Programming in the Large
+
+Good architecture frees us to choose the right tools and techniques, allowing
+us to adapt easily and concentrate on solving real problems rather than our 
+made up ones. In this talk we will run through some stereotypical projects looking 
+at the properties of good architectures and how these play into our ability
+to adopt better tools like Scala and FP. We will attempt to ground the magical
+architecture ponies, with real examples of my past projects where things have 
+gone well and probably of more interest where they really have not.
 
 
 __Mark Hibberd__
