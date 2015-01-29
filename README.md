@@ -11,7 +11,8 @@ Proposals
  - Flippo: Semigroups
  - Alex: https & doobie
  - Conor: FPiS
- - Stephen Nancekivell: DI and separating logic
+ - Stephen Nancekivell: Testing, DI and separating logic
+ - Jed: Kinds
  
 Old Proposals
 ---------
