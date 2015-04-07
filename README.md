@@ -8,4 +8,6 @@ Proposals
 ---------
 
  - Stephen Nancekivell: Testing, DI and separating logic
- - Eric Torreborre: Specs 2 - Version 3. 
+ - Karl Roberts: How I invented Lenses
+ - Karl Roberts: my first useful sbt plugin
+ 
