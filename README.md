@@ -1,4 +1,4 @@
-![ScalaSyd logo](https://raw.github.com/scalasyd/scalasyd/master/src/doc/img/scalasyd-logo.png
+![ScalaSyd logo](https://raw.github.com/scalasyd/scalasyd/master/src/doc/img/scalasyd-logo.png)
 
 ScalaSyd
 ========
