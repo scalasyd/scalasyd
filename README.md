@@ -1,15 +1,26 @@
-scalasyd
+![ScalaSyd logo](https://raw.github.com/scalasyd/scalasyd/master/src/doc/img/scalasyd-logo.png
+
+ScalaSyd
 ========
 
-poor mans private wiki for scalasyd talk proposals.
+The Sydney Scala User's Group.
 
+Meetings are usually the second Wednesday of the month and are announced 
+on the [meetup page](http://www.meetup.com/scalasyd/). Attendees should
+RSVP there to ensure adequate supplies of pizza are ordered.
+
+The organisers are:
+Mark Hibberd
+Jed Wesley-Smith
 
 Proposals
 ---------
 
- - Jacob Stanley: Tail Call Optimisation on the JVM
- - Alex Henke: Performance Numbers for Free
- - Stephen Nancekivell: Testing, DI and separating logic
- - Karl Roberts: How I invented Lenses
- - Karl Roberts: my first useful sbt plugin
- 
+Talk proposals should be created as issues. They should include a title 
+and a short description of the talk, as well as an indication of when
+they will be ready by. If no indication of when they are for is provided 
+they may be scheduled for the next meeting.
+
+Proposals should be assigned to the proposed speaker.
+
+Please vote for talks by starring/favouriting them.
