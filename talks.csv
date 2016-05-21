@@ -1,0 +1,135 @@
+1,Tony Sloane,Overview of the Kiama library
+1,Eric Torreborre,specs2: go functional!
+1,Eric Willigers,Adventures in SBT
+2,David Pinn,Intro to Akka
+2,Graham Lea,Top 10 Reasons that Java programs envy Scala
+2,Michael Neale,Testing the Cloud
+3,Ben Lever,Scoobi, a DSL to make Hadoop easy
+3,Jed Wesley-Smith,Guerilla Guide to Functional Programming
+3,Karl Roberts,Programming Without Null
+3,Brian McKenna,Who needs an IDE?
+4,Arnold deVos,Dumb pattern matching tricks
+4,Charles O'Farrell,Type Classes as Object and Implicits
+4,Karl Roberts,A Monoid for Calculating Distributed Averages
+5,Eric Torreborre,Pragmatic IO
+5,Eric Springer,A Lament for C++
+6,Charles O'Farrell,Shapeless
+6,Ben Lever,API design using type classes and dependent types.
+7,Michael Shaw,The good, the bad and the ugly of Play Framework 2
+7,Tony Sloane,sbt-rats
+7,Brian McKenna,So long and thanks for all the fish
+8,Eric Springer,How to implement a lisp (in scala), in like, 15 minutes
+8,Charles O'Farrell,Null is not an Option, Either are NPEs
+8,Jed Wesley-Smith,???
+9,James Roper,Reactive streams - Play's Iteratee API
+9,Declan Conlon,One-hole contexts or: how I learned to stop worrying and love the Zipper
+9,Michael Neale,Deployment of play/scala/akka apps or: what we have recently been doing at cloudbees to make it funnerer
+10,Arnold deVos,Some simple type magic: a phantom type will appear before your eyes where you expected a concrete value.
+10,Alex Hennecke,The Reader Monad: Dependency Injection Done Right
+10,Eric Willigers,Functional Scala Course Question: An interactive solution session
+11,Tony Sloane,String Interpolation in Scala 2.10
+11,Michael Peyton Jones,Covariance and Contravariance in Scala
+11,Jed Wesley-Smith,Pure Functional Effects
+12,Mark Hibberd,Patterns in Types: Reader, Writer, State in Scala
+12,Alex Hennecke,Beating some sense into Android's API
+12,Declan Conlon,Kadai: CMDOPTS
+13,Tony Sloane,Domain-specific names: an application of Scala macros
+13,Eric Torreborre,A walk to the beach, how Kiama helps with Hadoop computing
+13,Arnold deVos,Querying a Dataset with Scala's Pattern Matching
+14,Nilanjan Raychaudhuri,Simple concurrency with Akka
+14,Hugh Giddens,No future – testing asynchronous code
+14,Jed Wesley-Smith,Connection Management, FP Style
+15,Mark Hopkins,Much Ado About Monoids
+15,Ben Lever,Beyond Function2
+15,Mark Hibberd,Comonads in Anger
+16,Charles O'Farrell,ScalaDays2013ProxyFactoryBeanDelegate
+16,Eric Torreborre,ScalaDays2013ProxyFactoryBeanDelegate
+16,Sidney Shek,Learning Scala as a Java/Spring-a-holic
+16,Eric Torreborre,specs2 2.0, a whirlwind tour
+17,Karl Roberts,Mechanically Sympathetic Scala
+17,John Ky,Functional 2-3 Finger Tree
+17,Christopher Hunt,Tesla Polyglot - A Scala DSL for Maven
+18,Michael Shaw,Game development in Scala: How functional programming helps me sleep at night
+18,Laurence Rouesnel,import scala.language.experimental.{macros => magic}
+18,Declan Conlon,Fish-based Composition
+19,Eric Torreborre,Vampire Methods: cool macro tricks for generating matchers for case classes
+19,Stephan Hoermann,Algebird and approximation streaming algorithms: An introduction to Twitter's abstract algebra library
+19,Arnold deVos,Programming with the Actor Model
+20,Mark Hibberd,Programming in the Large
+20,Sidney Shek,Your First AKKA Cluster
+20,Thibault Delor,Do you really need BigDecimal?
+21,Philip Wadler,Faith Evolution and Programming Languages, from Haskell to Java
+21,Tony Morris,Parametricity (Types are Documentation)
+21,Daniel Spiewak,Parametric Execution Models
+22,Quinton Anderson,Scala Client API for a mechanical control system: Physical Effects
+22,Jed Wesley-Smith,Does Set have a Functor?
+22,Declan Conlon,Quicker-sort?
+23,Chris Cooper,Scala for Paragliders: How an application built on Scala Play Framework is helping outdoor enthusiasts
+23,Christopher Hunt,Introduction to sbt
+23,James Roper,Play is for Performance
+24,Alexey Raga,Reactive Extensions
+24,Greg Baran,High-performance Generic Numerics for Scala: the Spire Library
+24,Mark Hopkins,Getting higher: higher kinded and higher rank types in Scala
+25,Alex Hennecke,On the way from trench to tower
+25,Laurence Rouesnel,Packaging and Deploying Scala
+25,Jonathan Merritt,Scala in Biomechanics
+26,Max Swadling,Shapes
+26,Hugh Giddens,Codensity
+26,Mark Hibberd,Hacking with Argonaut
+27,Sidney Shek,Smooth Sailing with scalaz-stream
+27,Jed Wesley-Smith,Does Set have a Functor, part 2: The Yoneda lemma.
+27,Mark Hibberd,Applicative Style Command Line Parsing
+28,Ben Lever,A Scala Map
+28,Mark Hibberd,Towards "annex", a Fact Based Dependency System
+29,Arnold deVos,Simple Lock-Free Transactions and Their Uses
+29,Alex Hennecke,Parsing HTTP logs into typed streams
+29,Jed Wesley-Smith,The Future as a Value
+30,Mark Hibberd,An Interactive, Beginners Guide to Data Types in Scala
+30,Tony Sloane,Scala in Sublime Text
+30,Eric Torreborre,A toy example of using folds to represent data types in Scala
+31,Huw Campbell,Data Types for Error Handling in Scala
+31,Charles O'Farrell,Scala: The Good Parts
+31,Leonardo Borges,Scala with Emacs
+32,Gil Tene,Understanding GC
+32,Declan Conlon,The Consolations of Testing
+32,Ed Kmett,Quine: Realtime Raytracing with Haskell
+33,Filippo Vitale,Will it Blend?
+33,Charles O'Farrell,Practical property-based testing with ScalaCheck
+33,Jed Wesley-Smith,Higher Kinds, Type Lambdas and the Kind-Projector
+34,Alex Hennecke,Simple data streaming from JDBC to HTTP
+34,Conor Svensson,Making the functional paradigm shift, a book you need to read
+34,Alexey Raga,Type classes 101: Classification beyond inheritance
+35,Eric Torreborre,Specs2 3.x
+35,Mark Hibberd,Logging without Tradeoffs
+35,Jed Wesley-Smith,Free Stuff!
+36,Jacob Stanley,Get off my tail: rethinking tail calls on the JVM
+36,Alex Hennecke,Performance Numbers for Free
+36,Ashley Valent,Monads don't compose. Free ones do
+37,Mathew Johnson,A Parsing Fancy: Parser Combinators in Scala
+37,Simon Gerber,A Parsing Fancy: Parser Combinators in Scala
+37,Karl Roberts,My First Useful SBT Plugin
+37,Arnold deVos,Wrap your imperative POJOs in Functions
+38,Tim McGilchrist,Scala's Modular Roots
+38,Tony Sloane,Using LLVM from Scala
+38,Filippo Vitale,Let’s mash 2 monads to solve a simple CSP
+39,Eric Torreborre,Origami, monadic folds for Scala
+39,Ngoc Dao,i18n à la gettext
+39,Conor Svensson,Scala for Business Automation - Solving Real Business Problems with Streams, POI and a dash of BDD
+40,Jamie Allen,The Java Memory Model and the Mutability Matrix of Pain
+40,Mark Hibberd,Breaking Point: Building Scalable, Resilient APIs
+40,Oliver Daff,Functor, Apply, Applicative, Bind and Monad
+41,Matt Roberts,Compiled vs Interpreted Pattern Matching
+41,Karl Roberts,How I invented Lenses
+41,Jed Wesley-Smith,An introduction to Propositions as Types
+42,Mark Hibberd,Conservative Language Use For Fun and Profit
+42,Charles O'Farrell,Life Without Stacktraces
+42,Sam Reis,Hash Functions as Monoid Homomorphisms
+43,Arnold deVos,Type Member vs Type Parameter: Which? Why?
+43,Tin Pavlinic,Shapeless hacking - exploring the power of the Dark Side
+43,Alex Hennecke,data streams at the core
+44,Mark Hopkins,Macro-based smart constructors
+44,Christopher Hunt,What the hell is Lightbend?
+44,Max Leythaeuser,Pure Embedding of Dynamic Objects
+45,Mark Hibberd,Don't Fear The Parser
+45,Matt Roberts,The Expression Problem, Trivially
+45,Sean Seefried,Writing games for Android in Haskell
