@@ -136,3 +136,6 @@ Episode,Speaker,Talk
 45,Sean Seefried,"Writing games for Android in Haskell"
 46,Nick Hibberd,"Immutable Infrastructure using FP design patterns"
 46,Mark Hopkins,"How do functional programmers do dependency injection?"
+47,Jason Hinch,"Scala 2.12: A byte size code exploration"
+47,Sidney Shek,"Immutable Data for Scale, Flexibility and Safety: Event Sourcing and CQRS from the Trenches"
+47,Arnold deVos,"Exploring Scala Libraries: FastParse"
