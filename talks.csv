@@ -139,3 +139,5 @@ Episode,Speaker,Talk
 47,Jason Hinch,"Scala 2.12: A byte size code exploration"
 47,Sidney Shek,"Immutable Data for Scale, Flexibility and Safety: Event Sourcing and CQRS from the Trenches"
 47,Arnold deVos,"Exploring Scala Libraries: FastParse"
+48,Jed Wesley-Smith,"Types of a Higher Kind"
+48,Michael Shaw,"Building trust free apps in a hostile world"
