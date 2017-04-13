@@ -150,3 +150,5 @@ Episode,Speaker,Talk
 52,Martin Odersky,"From DOT to Dotty"
 53,Ren Pillay,"Types and a basic usecase for them"
 53,David Barri,"Recursion non-recursively!"
+54,Felix Eckhardt,"Parametricity: make your application more robust"
+54,Karl Roberts,"The Rise and hopefully Fall of the Aux Pattern"
