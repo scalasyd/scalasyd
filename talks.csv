@@ -158,3 +158,5 @@ Episode,Speaker,Talk
 56,Stephen Nancekivell,"Akka Streams"
 57,Ren Pillay,"Introduction to Optics"
 57,Arnold deVos,"Taming Transducer Data from the Electric Power Network"
+58,Karl Roberts,"Combinator parsers with scala.js"
+58,David Barri,"Functional Webapps with scalajs-react"
